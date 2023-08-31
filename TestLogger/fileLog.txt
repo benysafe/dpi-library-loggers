@@ -1,0 +1,7 @@
+10:32:57|Debug|Program.Main => NLogLogging.InterfaceLibraryLogger.IGenericLogger.init Ruta del fichero logConfig E:\WORK\D_VISION\SRC\LibraryLogger\TestLogger\logger.config
+10:32:57|Trace|Program.Main Trace message
+10:32:57|Debug|Program.Main Debug message
+10:32:57|Info|Program.Main Info message
+10:32:57|Warn|Program.Main Warning message
+10:32:57|Error|Program.Main Error message
+10:32:57|Fatal|Program.Main Critical message
